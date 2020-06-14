@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Open Sans', 'Arial', 'Times New Roman', serif;
-  font-size: 1.125rem;
+  font-size: 1.0rem;
   color: #24292E;
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -27,14 +27,14 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 600;
   line-height: 1.1;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.0rem;
 }
 h2 {
-  font-size: 1.875rem;
+  font-size: 1.75rem;
 }
 h3 {
   font-size: 1.5rem;
@@ -59,7 +59,7 @@ blockquote p:first-child {
 hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
-  border-width: 0.25rem;
+  border-width: 0.17rem;
   border-color: inherit;
   border-radius: 0.1875rem;
 }
@@ -202,7 +202,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  font-weight: 800;
+  font-weight: 600;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
@@ -352,6 +352,7 @@ img {
 @media (min-width: 768px) {
   .navbar-custom .avatar-container {
     width: 9.5rem;
+    margin-top: 3.0rem;
   }
 
   .navbar-custom .avatar-container .avatar-img-border {
@@ -588,15 +589,15 @@ footer .footer-custom-content {
 }
 .intro-header .page-heading h1 {
   margin-top: 2.8rem;
-  font-size: 2.3rem;
+  font-size: 2.0rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 2.1875rem;
+  font-size: 2.0rem;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
+  font-size: 1.5rem;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
