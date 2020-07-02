@@ -13,6 +13,7 @@ author: Daniel Holmberg
 
 navbar-links:
   CV: "https://deinal.github.io/assets/holmberg_daniel_cv.pdf"
+  Study transcript: "https://deinal.github.io/assets/study_transcript.pdf"
   Projects:
     - AI Control Problem: "https://aisafety.netlify.app"
     - Aerosol Modeling: "https://aerosol.herokuapp.com"
