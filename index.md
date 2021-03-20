@@ -4,16 +4,18 @@ title: Daniel Holmberg
 subtitle: MSc student, developer
 ---
 
-I have a background in physics and I am studying data science at the moment. I also work part-time as a developer, and I enjoy doing coding projects with others in general. We are in the process of creating a material that teaches coding in Swedish with a few friends of mine at the moment. 
+I research how particle jets' energy can be corrected for using deep learning on data from the [CMS](https://cms.cern) experiment at CERN. 
 
-### Work
+### Work Experience
 
-- Developer at [fjuul](https://fjuul.com), working with Node.js and Google Cloud Platform
+- Research assistant at [Helsinki Institute of Physics](https://www.hip.fi) performing deep neural network regression to determine jet energy corrections
+- Full-stack developer at [Fjuul](https://fjuul.com), working with Node.js and Google Cloud Platform
+- Research assistant at [Helsinki Accelerator Laboratory](https://helsinki.fi/en/researchgroups/helsinki-accelerator-laboratory) where we simulated iron-chromium alloys using molecular dynamics
 - Further information in my [CV](https://deinal.github.io/assets/holmberg_daniel_cv.pdf)
 
 ### Education
 
-- MSc student in Data Science, University of Helsinki
+- Data Science MSc student, University of Helsinki
 - BSc in Physics (2019), University of Helsinki
 
 ### What else?
