@@ -8,7 +8,7 @@ I research how particle jets' energy can be corrected for using deep learning on
 
 ### Experience
 
-- Research assistant at [Helsinki Institute of Physics](https://www.hip.fi) performing deep neural network regression to determine jet energy corrections
+- Research assistant at [Helsinki Institute of Physics](https://www.hip.fi) performing deep neural network regression to improve jet energy resolution
 - Full-stack developer at [Fjuul](https://fjuul.com), I worked with Node.js and Google Cloud Platform
 - Research assistant at [Helsinki Accelerator Laboratory](https://helsinki.fi/en/researchgroups/helsinki-accelerator-laboratory) where we simulated iron-chromium alloys using molecular dynamics
 - Further information in my [CV](https://deinal.github.io/assets/holmberg_daniel_cv.pdf)
