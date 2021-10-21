@@ -23,7 +23,7 @@ I research how particle jets' energy can be corrected for using deep learning on
 - [_Jet Energy Corrections with DNN Regression_](https://www.slideshare.net/DanielHolmberg6/jet-energy-corrections-with-deep-neural-network-regression), CMS ML Forum 8.9.2021
 - [_Atmospheric Aerosol Modeling_](https://www.slideshare.net/DanielHolmberg6/atmospheric-aerosol-modeling), University of Heslinki 12.5.2020
 - [_Emerging Computing Architectures_](https://www.slideshare.net/DanielHolmberg6/emerging-computing-architectures), Distributed ML Seminar 22.3.2020
-- [_Interatomic Potentials for Fe-Cr_](https://www.slideshare.net/DanielHolmberg6/interatomic-potential-for-fecr), HelsinkiAccelerator Laboratory Simumeet 26.8.2019
+- [_Interatomic Potentials for Fe-Cr_](https://www.slideshare.net/DanielHolmberg6/interatomic-potential-for-fecr), Helsinki Accelerator Laboratory Simumeet 26.8.2019
 
 ### Articles
 
