@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: "@deinal"
+title: ""
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -12,8 +12,8 @@ author: Daniel Holmberg
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "https://deinal.github.io/assets/holmberg_daniel_cv.pdf"
-  Study transcript: "https://deinal.github.io/assets/study_transcript.pdf"
+  CV: "assets/holmberg_daniel_cv.pdf"
+  Study transcript: "assets/study_transcript.pdf"
   Projects:
     - Aerosol Modeling: "https://aerosol.herokuapp.com"
     - AI Control Problem: "https://aisafety.netlify.app"
