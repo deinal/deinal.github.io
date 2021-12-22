@@ -11,11 +11,22 @@ td, th, tr {
 }
 
 img[alt=article] {
-  width: 135px!important;
+  min-width: 135px!important;
   height: 135px!important;
   border-radius: 5%;
   outline: 1px solid {{ site.navbar-border-col }};
   border: 5px solid {{ site.page-col }};
+}
+
+@media (max-width: 768px) {
+  img[alt=article] {
+    min-width: 80px!important;
+    height: 80px!important;
+  }
+}
+
+table {
+  margin-bottom: 10px;
 }
 
 html {

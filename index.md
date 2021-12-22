@@ -14,24 +14,21 @@ I research how particle jets' energy can be corrected for using deep learning on
 - Research assistant at [Helsinki Accelerator Laboratory](https://helsinki.fi/en/researchgroups/helsinki-accelerator-laboratory) where we simulated iron-chromium alloys using molecular dynamics
 - Further information in my [CV](assets/holmberg_daniel_cv.pdf)
 
-### Education
-
-- Data Science MSc student, University of Helsinki
-- BSc in Physics, University of Helsinki, 2019
-
 ### Talks
 
-- [Jet Energy Corrections with DNN Regression](assets/slides/jec_dnn.pdf), CMS ML Forum, Sep 2021
-- [Top Quark Mass Measurement](assets/slides/top_mass_das21.pdf), CMS Data Analysis School, Jan 2021
-- [Atmospheric Aerosol Modeling](assets/slides/aerosol_modeling.pdf), Data Science Project, May 2020
-- [Emerging Computing Architectures](assets/slides/emerging_architectures.pdf), Distributed ML Seminar, Mar 2020
-- [Interatomic Potentials for Fe-Cr](assets/slides/fecr_simumeet.pdf), Helsinki Accelerator Laboratory Simumeet, Aug 2019
+
+[JEC with DNN Regression](assets/slides/jec_dnn.pdf) | CMS ML Forum | Sep 2021
+[Top Quark Mass Measurement](assets/slides/top_mass_das21.pdf) | CMS Data Analysis School | Jan 2021
+[Atmospheric Aerosol Modeling](assets/slides/aerosol_modeling.pdf) | Data Science Project | May 2020
+[Emerging Computing Architectures](assets/slides/emerging_architectures.pdf) | Distributed ML Seminar | Mar 2020
+[Interatomic Potentials for Fe-Cr](assets/slides/fecr_simumeet.pdf) | Helsinki Accelerator Laboratory Simumeet | Aug 2019
+
 
 ### Workshops
 
-- Kubeflow facilitator at [CMS ML Hackathon: Jet tagging](https://indico.cern.ch/event/1079395), Nov 2021
-- Participant in [CMS Data Analysis School at Fermilab](https://indico.cern.ch/event/966368), Jan 2021
-- Helper at [the first online mega-CodeRefinery](https://coderefinery.github.io/2020-05-25-online/#helpers), May-June 2020
+[CMS ML Hackathon: Jet tagging](https://indico.cern.ch/event/1079395) | Kubeflow facilitator | Nov 2021
+[CMS Data Analysis School at Fermilab](https://indico.cern.ch/event/966368) | Participant | Jan 2021
+[First online mega-CodeRefinery](https://coderefinery.github.io/2020-05-25-online/#helpers) | Helper | May 2020
 
 ### Publications
 
