@@ -15,11 +15,10 @@ navbar-links:
   CV: "assets/holmberg_daniel_cv.pdf"
   Study transcript: "assets/study_transcript.pdf"
   Projects:
+    - Jet Energy Regression: "https://github.com/deinal/jec-dnn"
     - Aerosol Modeling: "https://aerosol.herokuapp.com"
-    - AI Control Problem: "https://aisafety.netlify.app"
-    - Android Apps: "https://play.google.com/store/apps/developer?id=deinal"
-    - Jet Energy Corrections: "https://github.com/deinal/jec-dnn"
     - Lyrics Generator: "https://lyrics-gen.herokuapp.com"
+    - Spektrum App: "https://play.google.com/store/apps/details?id=fi.spektrum.app"
     - Spektrum Discord Bot: "https://spektrumrf.github.io/bot"
     
 # --- Logo --- #
