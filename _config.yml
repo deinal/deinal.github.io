@@ -15,8 +15,7 @@ navbar-links:
   CV: "assets/holmberg_daniel_cv.pdf"
   Study transcript: "assets/study_transcript.pdf"
   Projects:
-    - Jet Energy Regression: "https://github.com/deinal/jec-dnn"
-    - Aerosol Modeling: "https://aerosol.herokuapp.com"
+    - Jet Energy Regression: "https://gitlab.cern.ch/dholmber/jec-gnn"
     - Lyrics Generator: "https://lyrics-gen.herokuapp.com"
     - Spektrum App: "https://play.google.com/store/apps/details?id=fi.spektrum.app"
     - Spektrum Bot: "https://spektrumrf.github.io/bot"
@@ -45,11 +44,11 @@ social-network-links:
   email: "daniel.holmberg97@gmail.com"
   linkedin: holmberg-daniel
   github: deinal
-  instagram: deinal
+  twitter: danielrholmberg
   orcid: "0000-0001-5020-7438"
   tds: deinal
 # facebook:
-# twitter:
+# instagram:
 #  reddit:
 #  xing: yourname
 #  stackoverflow:
