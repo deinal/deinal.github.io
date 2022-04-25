@@ -15,6 +15,14 @@ gem install bundler
 bundle install
 ```
 
+If `Gem::FilePermissionError`
+```
+mkdir ~/.ruby
+echo 'export GEM_HOME=~/.ruby/' >> ~/.bashrc
+echo 'export PATH="$PATH:~/.ruby/bin"' >> ~/.bashrc
+source ~/.bashrc
+```
+
 Run
 ```
 bundle exec jekyll serve

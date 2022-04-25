@@ -12,8 +12,7 @@ author: Daniel Holmberg
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "assets/holmberg_daniel_cv.pdf"
-  Study transcript: "assets/study_transcript.pdf"
+  Resume: "assets/holmberg_daniel_cv.pdf"
   Projects:
     - Jet Energy Regression: "https://gitlab.cern.ch/dholmber/jec-gnn"
     - Lyrics Generator: "https://lyrics-gen.herokuapp.com"
@@ -210,6 +209,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
