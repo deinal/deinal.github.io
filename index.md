@@ -16,7 +16,7 @@ I research how particle jets' energy can be corrected for using deep learning on
 
 ### Publications
 
-![article](assets/img/particle_cloud_simple.png) | **Jet Energy Corrections with Graph Neural Network Regression** <br> Daniel Holmberg <br> Master's Thesis, _University of Helsinki_, Feb 2022 <br> [thesis](assets/msc_thesis.pdf) \| [slides](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with)
+![article](assets/img/particle_cloud_simple.png) | **Jet Energy Corrections with Graph Neural Network Regression** <br> Daniel Holmberg <br> Master's Thesis, _University of Helsinki_, Feb 2022 <br> [thesis](assets/msc_thesis.pdf) \| [slides](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with) \| [video](https://youtu.be/iqbsbXZDjs8)
 
 ![article](assets/img/fecr_migration.png) | **Interatomic Fe–Cr potential for modeling kinetics on Fe surfaces** <br> Pekko Kuopanportti, Matti Ropo, Daniel Holmberg, _et al._ <br> _Computational Materials Science_, Volume 203, Feb 2022 <br> [paper](https://doi.org/10.1016/j.commatsci.2021.110840) \| [arxiv](https://arxiv.org/abs/2105.12859)
 
