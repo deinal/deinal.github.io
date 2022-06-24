@@ -24,6 +24,7 @@ I research how particle jets' energy can be corrected for using deep learning on
 
 ### Talks
 
+[CERN ML Platform](assets/slides/jec_kubeflow_cmg22.pdf) | CMG Group Meeting | :switzerland:
 [Jet Energy Corrections with GNN Regression using Kubeflow at CERN](https://kccnceu2022.sched.com/event/ytqv/jet-energy-corrections-with-gnn-regression-using-kubeflow-at-cern-daniel-holmberg-dejan-golubovic-cern) | KubeCon Valencia | :es:
 [Jet Energy Corrections with Graph Neural Network Regression](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with) | Learning to Discover | :fr:
 [Centralized Management of Your Machine Learning Lifecycle](assets/slides/kubeflow_ittf21.pdf) | CERN IT Technical Forum | :switzerland:
