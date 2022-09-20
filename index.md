@@ -36,6 +36,7 @@ My research revolves around interdisciplary applications of machine learning. Th
 
 ### Workshops
 
+[Arnold Sommerfeld School: Physics meets Artificial Intelligence](https://www.theorie.physik.uni-muenchen.de/activities/schools/asc_school_2022/index.html) | Ludwig Maximilian University
 [Plasma Physics Meets AI: Workshop on Subgrid-scale Modeling for Turbulence](https://wiki.aalto.fi/display/astroAI) | Aalto University
 [Representation Learning over Graph Data](https://indico.ijclab.in2p3.fr/event/5999/timetable/#day-2022-04-19) | Institut Pascal
 [CMS ML Hackathon: Jet tagging](https://indico.cern.ch/event/1079395) | CERN IdeaSquare 
