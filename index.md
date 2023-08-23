@@ -16,7 +16,7 @@ My research revolves around interdisciplary applications of machine learning. Th
 
 ### Publications
 
-![article](assets/img/jec_models.png) | **Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline** <br> Daniel Holmberg, Dejan Golubovic, Henning Kirschenmann <br> _Computing and Software for Big Science_, Vol 7, Aug 2023 <br> [paper](https://doi.org/10.1007/s41781-023-00103-y) \| [kubecon video](https://youtu.be/iqbsbXZDjs8) \| [meetup video](https://youtu.be/AWZT9ZYgohY)
+![article](assets/img/kubeflow_experiment.png) | **Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline** <br> Daniel Holmberg, Dejan Golubovic, Henning Kirschenmann <br> _Computing and Software for Big Science_, Vol 7, Aug 2023 <br> [paper](https://doi.org/10.1007/s41781-023-00103-y) \| [kubecon video](https://youtu.be/iqbsbXZDjs8) \| [meetup video](https://youtu.be/AWZT9ZYgohY)
 
 ![article](assets/img/particle_cloud_simple.png) | **Jet Energy Corrections with Graph Neural Network Regression** <br> Daniel Holmberg <br> Master's Thesis, _University of Helsinki_, Feb 2022 <br> [thesis](assets/msc_thesis.pdf) \| [slides](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with) \| [poster](https://indico.physik.uni-muenchen.de/event/173/contributions/862/)
 
