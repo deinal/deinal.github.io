@@ -16,9 +16,9 @@ My research revolves around interdisciplary applications of machine learning. Th
 
 ### Publications
 
-![article](assets/img/jec_models.png) | **Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline** <br> Daniel Holmberg, Dejan Golubovic, Henning Kirschenmann <br> _Computing and Software for Big Science_, Vol 7, Aug 2023 <br> [paper](https://doi.org/10.1007/s41781-023-00103-y) \| [kubecon video](https://youtu.be/iqbsbXZDjs8) \| [meetup video](https://youtu.be/AWZT9ZYgohY)
+![article](assets/img/jec_models.png) | **Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline** <br> Daniel Holmberg, Dejan Golubovic, Henning Kirschenmann <br> _Computing and Software for Big Science_, Vol 7, Aug 2023 <br> [paper](https://doi.org/10.1007/s41781-023-00103-y) \| [arxiv](https://arxiv.org/abs/2308.12724) \| [kubecon video](https://youtu.be/iqbsbXZDjs8) \| [meetup video](https://youtu.be/AWZT9ZYgohY)
 
-![article](assets/img/particle_cloud_simple.png) | **Jet Energy Corrections with Graph Neural Network Regression** <br> Daniel Holmberg <br> Master's Thesis, _University of Helsinki_, Feb 2022 <br> [thesis](assets/msc_thesis.pdf) \| [slides](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with) \| [poster](https://indico.physik.uni-muenchen.de/event/173/contributions/862/)
+![article](assets/img/particle_cloud_simple.png) | **Jet Energy Corrections with Graph Neural Network Regression** <br> Daniel Holmberg <br> Master's Thesis, _University of Helsinki_, Feb 2022 <br> [thesis](http://urn.fi/URN:NBN:fi:hulib-202205302154) \| [slides](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with) \| [poster](https://indico.physik.uni-muenchen.de/event/173/contributions/862/)
 
 ![article](assets/img/fecr_migration.png) | **Interatomic Fe–Cr potential for modeling kinetics on Fe surfaces** <br> Pekko Kuopanportti, Matti Ropo, Daniel Holmberg, _et al._ <br> _Computational Materials Science_, Vol 203, Feb 2022 <br> [paper](https://doi.org/10.1016/j.commatsci.2021.110840) \| [arxiv](https://arxiv.org/abs/2105.12859)
 
@@ -26,7 +26,7 @@ My research revolves around interdisciplary applications of machine learning. Th
 
 ### Talks
 
-[CERN ML Platform](assets/slides/jec_kubeflow_cmg22.pdf) | CMG Group Meeting | :switzerland:
+[CERN ML Platform](https://indico.cern.ch/event/1174414/#15-cern-ml-platform) | CMG Group Meeting | :switzerland:
 [Jet Energy Corrections with GNN Regression using Kubeflow at CERN](https://kccnceu2022.sched.com/event/ytqv/jet-energy-corrections-with-gnn-regression-using-kubeflow-at-cern-daniel-holmberg-dejan-golubovic-cern) | KubeCon Valencia | :es:
 [Jet Energy Corrections with Graph Neural Network Regression](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with) | Learning to Discover | :fr:
 [Centralized Management of Your Machine Learning Lifecycle](assets/slides/kubeflow_ittf21.pdf) | CERN IT Technical Forum | :switzerland:
