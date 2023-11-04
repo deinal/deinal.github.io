@@ -9,8 +9,8 @@ My research revolves around interdisciplary applications of machine learning. Th
 ### Experience
 
 - Technical student at [CERN](https://home.cern) working with Kubeflow, a cloud native service supporting scalable end-to-end machine learning pipelines
-- Research assistant at [Helsinki Institute of Physics](https://hip.fi) performing graph neural network regression to improve jet energy resolution
-- Full-stack developer at [Fjuul](https://fjuul.com), I worked with Node.js and Google Cloud Platform
+- Research assistant at [Helsinki Institute of Physics](https://hip.fi), calibration of particle jets at the CMS experiment
+- Full-stack developer at [Fjuul](https://fjuul.com) devloping a mobile application for health tracking
 - Research assistant at [Helsinki Accelerator Laboratory](https://helsinki.fi/en/researchgroups/helsinki-accelerator-laboratory) where we simulated iron-chromium alloys using molecular dynamics
 - Further information in my [CV](assets/holmberg_daniel_cv.pdf)
 
