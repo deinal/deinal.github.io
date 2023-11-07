@@ -13,6 +13,8 @@ author: Daniel Holmberg
 
 navbar-links:
   Resume: "assets/holmberg_daniel_cv.pdf"
+  Projects:
+    - Spektrum App: "https://play.google.com/store/apps/details?id=fi.spektrum.app"
     
 # --- Logo --- #
 
