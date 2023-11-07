@@ -12,7 +12,7 @@ author: Daniel Holmberg
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resume: "assets/holmberg_daniel_cv.pdf"
+  Resume: "assets/resume.pdf"
   Projects:
     - Spektrum App: "https://play.google.com/store/apps/details?id=fi.spektrum.app"
     
