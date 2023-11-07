@@ -13,11 +13,6 @@ author: Daniel Holmberg
 
 navbar-links:
   Resume: "assets/holmberg_daniel_cv.pdf"
-  Projects:
-    - Jet Energy Regression: "https://gitlab.cern.ch/dholmber/jec-gnn"
-    - Lyrics Generator: "https://lyrics-gen.herokuapp.com"
-    - Spektrum App: "https://play.google.com/store/apps/details?id=fi.spektrum.app"
-    - Spektrum Bot: "https://spektrumrf.github.io/bot"
     
 # --- Logo --- #
 

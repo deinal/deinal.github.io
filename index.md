@@ -12,7 +12,7 @@ My research revolves around interdisciplary applications of machine learning. Th
 - Research assistant at [Helsinki Institute of Physics](https://hip.fi), calibration of particle jets at the CMS experiment
 - Full-stack developer at [Fjuul](https://fjuul.com) devloping a mobile application for health tracking
 - Research assistant at [Helsinki Accelerator Laboratory](https://helsinki.fi/en/researchgroups/helsinki-accelerator-laboratory) where we simulated iron-chromium alloys using molecular dynamics
-- Further information in my [CV](assets/holmberg_daniel_cv.pdf)
+- Further information in my [CV](assets/resume.pdf).
 
 ### Publications
 
