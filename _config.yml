@@ -13,8 +13,6 @@ author: Daniel Holmberg
 
 navbar-links:
   Resume: "assets/resume.pdf"
-  Projects:
-    - Spektrum App: "https://play.google.com/store/apps/details?id=fi.spektrum.app"
     
 # --- Logo --- #
 
@@ -37,10 +35,10 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   rss: false
-  email: "daniel.holmberg97@gmail.com"
+  email: "daniel.holmberg@helsinki.fi"
   linkedin: holmberg-daniel
   github: deinal
-  twitter: danielrholmberg
+  twitter: dholmbrg
   orcid: "0000-0001-5020-7438"
   tds: deinal
 # facebook:
