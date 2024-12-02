@@ -32,7 +32,6 @@ My research revolves around interdisciplary applications using structured deep l
 [Jet Energy Corrections with GNN Regression using Kubeflow at CERN](https://kccnceu2022.sched.com/event/ytqv/jet-energy-corrections-with-gnn-regression-using-kubeflow-at-cern-daniel-holmberg-dejan-golubovic-cern) | KubeCon Valencia | :es:
 [Jet Energy Corrections with Graph Neural Network Regression](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with) | Learning to Discover | :fr:
 [Centralized Management of Your Machine Learning Lifecycle](assets/slides/kubeflow_ittf21.pdf) | CERN IT Technical Forum | :switzerland:
-[Jet Energy Corrections with DNN Regression](assets/slides/jec_dnn_cms21.pdf) | CMS Machine Learning Forum | :switzerland: 
+[Jet Energy Corrections with DNN Regression](assets/slides/jec_dnn_cms21.pdf) | CMS Machine Learning Forum | :switzerland:
+[Emerging Computing Architectures](assets/slides/emerging_architectures_hu20.pdf) | Distributed ML Seminar | :finland:
 [Top Quark Mass Measurement](assets/slides/top_mass_das21.pdf) | LPC CMS Data Analysis School | ㅤ
-[Atmospheric Aerosol Modeling](assets/slides/aerosol_modeling_hu20.pdf) | HU Data Science Project | :finland:
-[Emerging Computing Architectures](assets/slides/emerging_architectures_hu20.pdf) | HU Distributed ML Seminar | :finland:
