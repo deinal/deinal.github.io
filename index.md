@@ -27,7 +27,7 @@ My research revolves around interdisciplary applications using structured deep l
 
 ### Talks
 
-[SeaCast](assets/slides/seacast_cmcc24.pdf) | CMCC Seminar | :italy:
+[SeaCast](assets/slides/seacast_cmcc24.pdf) | CMCC Seminar | :it:
 [CERN ML Platform](https://indico.cern.ch/event/1174414/#15-cern-ml-platform) | CMG Group Meeting | :switzerland:
 [Jet Energy Corrections with GNN Regression using Kubeflow at CERN](https://kccnceu2022.sched.com/event/ytqv/jet-energy-corrections-with-gnn-regression-using-kubeflow-at-cern-daniel-holmberg-dejan-golubovic-cern) | KubeCon Valencia | :es:
 [Jet Energy Corrections with Graph Neural Network Regression](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with) | Learning to Discover | :fr:
