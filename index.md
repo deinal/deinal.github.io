@@ -8,15 +8,16 @@ My research revolves around interdisciplary applications using structured deep l
 
 ### Experience
 
-- Technical student at [CERN](https://home.cern) working with Kubeflow, a cloud native service supporting scalable end-to-end machine learning pipelines
-- Research assistant at [Helsinki Institute of Physics](https://hip.fi) calibrating particle jets from the CMS detector
-- Full-stack developer at [Fjuul](https://fjuul.com) devloping a mobile application for health tracking
-- Research assistant at [Helsinki Accelerator Laboratory](https://helsinki.fi/en/researchgroups/helsinki-accelerator-laboratory) where we simulated iron-chromium alloys using molecular dynamics
+- Visiting researcher at [CMCC](https://www.cmcc.it) building an ML based alternative to the operational numerical Mediterranean forecasting system.
+- Visiting researcher at [SARAO](https://www.sarao.ac.za) developing computer vision techniques to deconvolve radio interferometric images.
+- Technical student at [CERN](https://home.cern) working with Kubeflow, a cloud native service supporting scalable end-to-end machine learning pipelines.
+- Research assistant at [HIP](https://www.hip.fi) calibrating particle jets from the CMS detector.
+- Full-stack developer at [Fjuul](https://fjuul.com) integrating health tracking from Withings as a datasource in the app.
 - Further information in my [CV](assets/resume.pdf).
 
 ### Publications
 
-![article](assets/img/seacast.jpg) | **Regional Ocean Forecasting with Hierarchical Graph Neural Networks** <br> Daniel Holmberg, Emanuela Clementi, Teemu Roos <br> In _NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning_, 2024 <br> [arxiv](https://arxiv.org/abs/2410.11807)
+![article](assets/img/seacast.jpg) | **Regional Ocean Forecasting with Hierarchical Graph Neural Networks** <br> Daniel Holmberg, Emanuela Clementi, Teemu Roos <br> In _NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning_, 2024 <br> [arxiv](https://arxiv.org/abs/2410.11807) \| [slides](assets/slides/seacast_cmcc24.pdf)
 
 ![article](assets/img/jec_models.png) | **Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline** <br> Daniel Holmberg, Dejan Golubovic, Henning Kirschenmann <br> _Computing and Software for Big Science_, Vol 7, 2023 <br> [paper](https://doi.org/10.1007/s41781-023-00103-y) \| [arxiv](https://arxiv.org/abs/2308.12724) \| [kubecon video](https://youtu.be/iqbsbXZDjs8) \| [meetup video](https://youtu.be/AWZT9ZYgohY)
 
@@ -28,6 +29,7 @@ My research revolves around interdisciplary applications using structured deep l
 
 ### Talks
 
+[SeaCast](assets/slides/seacast_cmcc24.pdf) | CMCC Seminar | :italy:
 [CERN ML Platform](https://indico.cern.ch/event/1174414/#15-cern-ml-platform) | CMG Group Meeting | :switzerland:
 [Jet Energy Corrections with GNN Regression using Kubeflow at CERN](https://kccnceu2022.sched.com/event/ytqv/jet-energy-corrections-with-gnn-regression-using-kubeflow-at-cern-daniel-holmberg-dejan-golubovic-cern) | KubeCon Valencia | :es:
 [Jet Energy Corrections with Graph Neural Network Regression](https://indico.ijclab.in2p3.fr/event/5999/timetable/#32-jet-energy-corrections-with) | Learning to Discover | :fr:
