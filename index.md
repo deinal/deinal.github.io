@@ -11,8 +11,6 @@ My research revolves around interdisciplary applications using structured deep l
 - Visiting researcher at [CMCC](https://www.cmcc.it) building an ML based alternative to the operational numerical Mediterranean forecasting system.
 - Visiting researcher at [SARAO](https://www.sarao.ac.za) developing computer vision techniques to deconvolve radio interferometric images.
 - Technical student at [CERN](https://home.cern) working with Kubeflow, a cloud native service supporting scalable end-to-end machine learning pipelines.
-- Research assistant at [HIP](https://www.hip.fi) calibrating particle jets from the CMS detector.
-- Full-stack developer at [Fjuul](https://fjuul.com) integrating health tracking from Withings as a datasource in the app.
 - Further information in my [CV](assets/resume.pdf).
 
 ### Publications
