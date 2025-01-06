@@ -15,7 +15,7 @@ My research revolves around interdisciplary applications using structured deep l
 
 ### Publications
 
-![article](assets/img/seacast.jpg) | **Regional Ocean Forecasting with Hierarchical Graph Neural Networks** <br> Daniel Holmberg, Emanuela Clementi, Teemu Roos <br> In _NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning_, 2024 <br> [paper](https://www.climatechange.ai/papers/neurips2024/51) \| [arxiv](https://arxiv.org/abs/2410.11807) \| [slides](assets/slides/seacast_cmcc24.pdf)
+![article](assets/img/seacast.jpg) | **Regional Ocean Forecasting with Hierarchical Graph Neural Networks** <br> Daniel Holmberg, Emanuela Clementi, Teemu Roos <br> In _NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning_, 2024 <br> [paper](https://www.climatechange.ai/papers/neurips2024/51) \| [arxiv](https://arxiv.org/abs/2410.11807) \| [slides](assets/slides/seacast_cmcc24.pdf) \| [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/100541.png)
 
 ![article](assets/img/jec_models.png) | **Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline** <br> Daniel Holmberg, Dejan Golubovic, Henning Kirschenmann <br> _Computing and Software for Big Science_, Vol 7, 2023 <br> [paper](https://doi.org/10.1007/s41781-023-00103-y) \| [arxiv](https://arxiv.org/abs/2308.12724) \| [kubecon video](https://youtu.be/iqbsbXZDjs8) \| [meetup video](https://youtu.be/AWZT9ZYgohY)
 
