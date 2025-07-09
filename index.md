@@ -15,11 +15,11 @@ My research revolves around interdisciplary applications using structured deep l
 
 ### Publications
 
-![article](assets/img/encoding.png) | **Accurate Mediterranean Sea forecasting via graph-based deep learning** <br> Daniel Holmberg, Emanuela Clementi, Italo Epicoco, Teemu Roos <br> _preprint_, 2025 <br> [arxiv](https://arxiv.org/abs/2506.23900)
+![article](assets/img/encoding.png) | **Accurate Mediterranean Sea forecasting via graph-based deep learning** <br> Daniel Holmberg, Emanuela Clementi, Italo Epicoco, Teemu Roos <br> _preprint_, 2025 <br> [arxiv](https://arxiv.org/abs/2506.23900) \| [slides](assets/slides/seacast_cmcc25.pdf)
 
 ![article](assets/img/n100.png) | **Global fields of daily accumulation-mode particle number concentrations using in situ observations, reanalysis data and machine learning** <br> Aino Ovaska, Elio Rauth, Daniel Holmberg, et al. <br> _preprint_, 2025 <br> [paper](https://doi.org/10.5194/ar-2025-18)
 
-![article](assets/img/movement.png) | **Learning Developmental Age from 3D Infant Kinetics Using Adaptive Graph Neural Networks** <br> Daniel Holmberg, Manu Airaksinen, Viviana Marchi, Andrea Guzzetta, Anna Tuiskula, Leena Haataja, Sampsa Vanhatalo, Teemu Roos <br> _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 2025 <br> [paper](https://ieeexplore.ieee.org/abstract/document/10994338) \| [arxiv](https://arxiv.org/abs/2402.14400)
+![article](assets/img/pose.png) | **Learning Developmental Age from 3D Infant Kinetics Using Adaptive Graph Neural Networks** <br> Daniel Holmberg, Manu Airaksinen, Viviana Marchi, Andrea Guzzetta, Anna Tuiskula, Leena Haataja, Sampsa Vanhatalo, Teemu Roos <br> _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 2025 <br> [paper](https://ieeexplore.ieee.org/abstract/document/10994338) \| [arxiv](https://arxiv.org/abs/2402.14400)
 
 ![article](assets/img/seacast.jpg) | **Regional Ocean Forecasting with Hierarchical Graph Neural Networks** <br> Daniel Holmberg, Emanuela Clementi, Teemu Roos <br> In _NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning_, 2024 <br> [paper](https://www.climatechange.ai/papers/neurips2024/51) \| [arxiv](https://arxiv.org/abs/2410.11807) \| [slides](assets/slides/seacast_cmcc24.pdf) \| [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/100541.png)
 
