@@ -15,6 +15,12 @@ My research revolves around interdisciplary applications using structured deep l
 
 ### Publications
 
+![article](assets/img/encoding.png) | **Accurate Mediterranean Sea forecasting via graph-based deep learning** <br> Daniel Holmberg, Emanuela Clementi, Italo Epicoco, Teemu Roos <br> _preprint_, 2025 <br> [arxiv](https://arxiv.org/abs/2506.23900)
+
+![article](assets/img/n100.png) | **Global fields of daily accumulation-mode particle number concentrations using in situ observations, reanalysis data and machine learning** <br> Aino Ovaska, Elio Rauth, Daniel Holmberg, et al. <br> _preprint_, 2025 <br> [paper](https://doi.org/10.5194/ar-2025-18)
+
+![article](assets/img/movement.png) | **Learning Developmental Age from 3D Infant Kinetics Using Adaptive Graph Neural Networks** <br> Daniel Holmberg, Manu Airaksinen, Viviana Marchi, Andrea Guzzetta, Anna Tuiskula, Leena Haataja, Sampsa Vanhatalo, Teemu Roos <br> _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 2025 <br> [paper](https://ieeexplore.ieee.org/abstract/document/10994338) \| [arxiv](https://arxiv.org/abs/2402.14400)
+
 ![article](assets/img/seacast.jpg) | **Regional Ocean Forecasting with Hierarchical Graph Neural Networks** <br> Daniel Holmberg, Emanuela Clementi, Teemu Roos <br> In _NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning_, 2024 <br> [paper](https://www.climatechange.ai/papers/neurips2024/51) \| [arxiv](https://arxiv.org/abs/2410.11807) \| [slides](assets/slides/seacast_cmcc24.pdf) \| [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/100541.png)
 
 ![article](assets/img/jec_models.png) | **Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline** <br> Daniel Holmberg, Dejan Golubovic, Henning Kirschenmann <br> _Computing and Software for Big Science_, Vol 7, 2023 <br> [paper](https://doi.org/10.1007/s41781-023-00103-y) \| [arxiv](https://arxiv.org/abs/2308.12724) \| [kubecon video](https://youtu.be/iqbsbXZDjs8) \| [meetup video](https://youtu.be/AWZT9ZYgohY)
@@ -27,6 +33,7 @@ My research revolves around interdisciplary applications using structured deep l
 
 ### Talks
 
+[Accurate Mediterranean Sea Forecasting via Graph-based Deep Learning](assets/slides/seacast_cmcc25.pdf) | The Way Forward Workshop: AI/ML in Earth System Science | :it:
 [Regional Ocean Forecasting with Hierarchical Graph Neural Networks](assets/slides/seacast_cmcc24.pdf) | CMCC Seminar | :it:
 [CERN ML Platform](https://indico.cern.ch/event/1174414/#15-cern-ml-platform) | CMG Group Meeting | :switzerland:
 [Jet Energy Corrections with GNN Regression using Kubeflow at CERN](https://kccnceu2022.sched.com/event/ytqv/jet-energy-corrections-with-gnn-regression-using-kubeflow-at-cern-daniel-holmberg-dejan-golubovic-cern) | KubeCon Valencia | :es:
