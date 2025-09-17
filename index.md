@@ -15,9 +15,11 @@ My research revolves around interdisciplary applications using structured deep l
 
 ### Publications
 
+![article](assets/img/space_weather.png) | **Graph-based Neural Space Weather Forecasting** <br> Daniel Holmberg, Ivan Zaitsev, Markku Alho, Ioanna Bouri, Fanni Franssila, Haewon Jeong, Minna Palmroth, Teemu Roos <br> _preprint_, 2025 <br> [preprint](assets/space_weather_preprint.pdf)
+
 ![article](assets/img/encoding.png) | **Accurate Mediterranean Sea forecasting via graph-based deep learning** <br> Daniel Holmberg, Emanuela Clementi, Italo Epicoco, Teemu Roos <br> _preprint_, 2025 <br> [arxiv](https://arxiv.org/abs/2506.23900) \| [slides](assets/slides/seacast_cmcc25.pdf)
 
-![article](assets/img/n100.png) | **Global fields of daily accumulation-mode particle number concentrations using in situ observations, reanalysis data and machine learning** <br> Aino Ovaska, Elio Rauth, Daniel Holmberg, et al. <br> _preprint_, 2025 <br> [paper](https://doi.org/10.5194/ar-2025-18)
+![article](assets/img/n100.png) | **Global fields of daily accumulation-mode particle number concentrations using in situ observations, reanalysis data and machine learning** <br> Aino Ovaska, Elio Rauth, Daniel Holmberg, et al. <br> _preprint_, 2025 <br> [paper](https://doi.org/10.5194/ar-2025-18) | [dataset](https://zenodo.org/records/15222674)
 
 ![article](assets/img/pose.png) | **Learning Developmental Age from 3D Infant Kinetics Using Adaptive Graph Neural Networks** <br> Daniel Holmberg, Manu Airaksinen, Viviana Marchi, Andrea Guzzetta, Anna Tuiskula, Leena Haataja, Sampsa Vanhatalo, Teemu Roos <br> _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 2025 <br> [paper](https://ieeexplore.ieee.org/abstract/document/10994338) \| [arxiv](https://arxiv.org/abs/2402.14400)
 
