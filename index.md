@@ -4,10 +4,11 @@ title: Daniel Holmberg
 subtitle: Comp. Sci. PhD Student
 ---
 
-My research revolves around interdisciplary applications using structured deep learning. The main focus of my PhD is attempting to speed up space weather simulation that follows the hybrid-Vlasov formalism.
+My research is focused on graph-based deep learning for scientific applications, and lately neural emulation of ocean and plasma simulations.
 
 ### Experience
 
+- Fulbright Finland Scholar at [Jeong Lab](https://haewonjeong.com/) and [Geometric Intelligence Lab](https://gi.ece.ucsb.edu/people) at UC Santa Barbara for the academic year 25-26.
 - Visiting researcher at [CMCC](https://www.cmcc.it) building an ML based alternative to the operational numerical Mediterranean forecasting system.
 - Visiting researcher at [SARAO](https://www.sarao.ac.za) developing computer vision techniques to deconvolve radio interferometric images.
 - Technical student at [CERN](https://home.cern) working with Kubeflow, a cloud native service supporting scalable end-to-end machine learning pipelines.
