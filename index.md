@@ -16,9 +16,9 @@ My research is focused on graph-based deep learning for scientific applications,
 
 ### Publications
 
-![article](assets/img/space_weather.png) | **Graph-based Neural Space Weather Forecasting** <br> Daniel Holmberg, Ivan Zaitsev, Markku Alho, Ioanna Bouri, Fanni Franssila, Haewon Jeong, Minna Palmroth, Teemu Roos <br> In _NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences_, 2025 <br> [arxiv](https://arxiv.org/abs/2509.19605) \| [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/123065.png)
+![article](assets/img/space_weather.png) | **Graph-based Neural Space Weather Forecasting** <br> Daniel Holmberg, Ivan Zaitsev, Markku Alho, Ioanna Bouri, Fanni Franssila, Haewon Jeong, Minna Palmroth, Teemu Roos <br> In _NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences_, 2025 <br> [paper](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_185.pdf) \| [arxiv](https://arxiv.org/abs/2509.19605) \| [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/123065.png)
 
-![article](assets/img/encoding.png) | **Accurate Mediterranean Sea forecasting via graph-based deep learning** <br> Daniel Holmberg, Emanuela Clementi, Italo Epicoco, Teemu Roos <br> _preprint_, 2025 <br> [arxiv](https://arxiv.org/abs/2506.23900) \| [slides](assets/slides/seacast_cmcc25.pdf)
+![article](assets/img/encoding.png) | **Accurate Mediterranean Sea forecasting via graph-based deep learning** <br> Daniel Holmberg, Emanuela Clementi, Italo Epicoco, Teemu Roos <br> _Scientific Reports_, 2025 <br> [paper](https://www.nature.com/articles/s41598-025-31177-w) \| [arxiv](https://arxiv.org/abs/2506.23900) \| [slides](assets/slides/seacast_cmcc25.pdf)
 
 ![article](assets/img/n100.png) | **Global fields of daily accumulation-mode particle number concentrations using in situ observations, reanalysis data and machine learning** <br> Aino Ovaska, Elio Rauth, Daniel Holmberg, et al. <br> _Aerosol Research_, Vol 3, 2025 <br> [paper](https://doi.org/10.5194/ar-2025-18) \| [dataset](https://zenodo.org/records/15222674)
 
