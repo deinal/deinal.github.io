@@ -8,8 +8,8 @@ My research is focused on graph-based deep learning for scientific applications,
 
 ### Experience
 
-- Fulbright Finland Scholar at [Jeong Lab](https://haewonjeong.com/) and [Geometric Intelligence Lab](https://gi.ece.ucsb.edu/people) at UC Santa Barbara for the academic year 25-26.
-- Visiting researcher at [CMCC](https://www.cmcc.it) building an ML based alternative to the operational numerical Mediterranean forecasting system.
+- Fulbright Finland Scholar at [Geometric Intelligence Lab](https://gi.ece.ucsb.edu/people) at UC Santa Barbara for the academic year 25-26.
+- Visiting researcher at [CMCC Foundation](https://www.cmcc.it) building an ML based alternative to the operational numerical Mediterranean forecasting system.
 - Visiting researcher at [SARAO](https://www.sarao.ac.za) developing computer vision techniques to deconvolve radio interferometric images.
 - Technical student at [CERN](https://home.cern) working with Kubeflow, a cloud native service supporting scalable end-to-end machine learning pipelines.
 - Further information in my [CV](assets/resume.pdf).
@@ -34,11 +34,9 @@ My research is focused on graph-based deep learning for scientific applications,
 
 ![article](assets/img/fecr_migration.png) | **Interatomic Fe–Cr potential for modeling kinetics on Fe surfaces** <br> Pekko Kuopanportti, Matti Ropo, Daniel Holmberg, _et al._ <br> _Computational Materials Science_, Vol 203, 2022 <br> [paper](https://doi.org/10.1016/j.commatsci.2021.110840) \| [arxiv](https://arxiv.org/abs/2105.12859)
 
-![article](assets/img/sectio_physica.png) | **Potentialmodeller vid simulering av Fe-Cr** <br> Daniel Holmberg <br> Bachelor's Thesis, _University of Helsinki_, May 2019 <br> [thesis](assets/bsc_thesis.pdf) \| [slides](assets/slides/fecr_simumeet19.pdf)
-
 ### Talks
 
-[Neural-ROM: A Graph Neural Network for Probabilistic Regional Ocean Forecasting in the Baltic Sea](assets/slides/neural_rom_agu25.pdf) | American Geophysical Union | :us:
+[A Graph Neural Network for Probabilistic Regional Ocean Forecasting](assets/slides/neural_rom_agu25.pdf) | American Geophysical Union | :us:
 [Deterministic and Probabilistic Near-Earth Space Weather Forecasting with Machine Learning](assets/slides/spacecast_agu25.pdf) | American Geophysical Union | :us:
 [Accurate Mediterranean Sea Forecasting via Graph-based Deep Learning](assets/slides/seacast_cmcc25.pdf) | The Way Forward Workshop: AI/ML in Earth System Science | :it:
 [Regional Ocean Forecasting with Hierarchical Graph Neural Networks](assets/slides/seacast_cmcc24.pdf) | CMCC Seminar | :it:
