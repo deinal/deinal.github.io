@@ -12,7 +12,6 @@ My research is focused on graph-based deep learning for scientific applications,
 - Visiting researcher at [CMCC Foundation](https://www.cmcc.it) building an ML based alternative to the operational numerical Mediterranean forecasting system.
 - Visiting researcher at [SARAO](https://www.sarao.ac.za) developing computer vision techniques to deconvolve radio interferometric images.
 - Technical student at [CERN](https://home.cern) working with Kubeflow, a cloud native service supporting scalable end-to-end machine learning pipelines.
-- Further information in my [CV](assets/resume.pdf).
 
 ### Publications
 
