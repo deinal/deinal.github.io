@@ -11,8 +11,10 @@ author: Daniel Holmberg
 
 # --- List of links in the navigation bar --- #
 
-# navbar-links:
-#   Resume: "assets/resume.pdf"
+navbar-links:
+  GitHub: "https://github.com/deinal/"
+  LinkedIn: "https://www.linkedin.com/in/holmberg-daniel/"
+  Google Scholar: "https://scholar.google.com/citations?user=oPncKzcAAAAJ&hl"
     
 # --- Logo --- #
 
