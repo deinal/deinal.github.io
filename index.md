@@ -37,7 +37,6 @@ My research is focused on graph-based deep learning for scientific applications,
 
 [Njord: A Probabilistic Graph Neural Network for Ensemble Ocean Forecasting](assets/slides/njord_mlocean26.pdf) | ML for Ocean Modeling | :uk:
 [A Graph Neural Network for Probabilistic Regional Ocean Forecasting](assets/slides/neural_rom_agu25.pdf) | American Geophysical Union | :us:
-[A Graph Neural Network for Probabilistic Regional Ocean Forecasting](assets/slides/neural_rom_agu25.pdf) | American Geophysical Union | :us:
 [Deterministic and Probabilistic Near-Earth Space Weather Forecasting with Machine Learning](assets/slides/spacecast_agu25.pdf) | American Geophysical Union | :us:
 [Accurate Mediterranean Sea Forecasting via Graph-based Deep Learning](assets/slides/seacast_cmcc25.pdf) | The Way Forward Workshop: AI/ML in Earth System Science | :it:
 [Regional Ocean Forecasting with Hierarchical Graph Neural Networks](assets/slides/seacast_cmcc24.pdf) | CMCC Seminar | :it:
